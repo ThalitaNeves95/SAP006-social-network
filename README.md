@@ -13,10 +13,6 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/ThalitaNeves95/feed_zPjGyAR--.gif?updatedAt=1631109615458" width="600">
-</h1>
-
-<h1 align="center">
   <img src="https://ik.imagekit.io/ThalitaNeves95/delet_wcgrPNxlj8.gif?updatedAt=1631109651463" width="600">
 </h1>
 
